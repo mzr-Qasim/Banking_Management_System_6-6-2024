@@ -1,0 +1,2 @@
+def saf():
+    print("s")
