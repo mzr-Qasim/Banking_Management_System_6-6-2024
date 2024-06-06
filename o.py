@@ -1,2 +1,0 @@
-def saf():
-    print("s")
